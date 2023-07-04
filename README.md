@@ -17,9 +17,9 @@ Ensuite, vérifier les informations dans la classe Dbconnector, par défaut, les
 
 Ensuite trois possibilités:
 
-1. Importer le dump vide de la base SQL où les tables sont crées mais où les valeurs sont à incorporées via le front
+1. Importer le dump vide de la base SQL où les tables sont créées mais où les valeurs sont à incorporer via le front
 
-2. Importer le dump peuplé de la base SQL pour afficher directemen,t le résultat de l'exercices
+2. Importer le dump peuplé de la base SQL pour afficher directement le résultat de l'exercice
 
 3. Exécuter le script http://localhost/testcda/class/seed.php
 
